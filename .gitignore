@@ -1,0 +1,10 @@
+/shelf/
+/.idea/
+*.iml
+/workspace.xml
+/bin/
+/target/
+/dataSources/
+/dataSources.local.xml
+/out/
+/.idea_modules/
